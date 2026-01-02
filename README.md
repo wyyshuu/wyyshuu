@@ -1,4 +1,4 @@
-Hi, I'm Vaishnavi.
+Hi, I'm Vaishnavi.👋
 
 I am an Electronics and Communication Engineering student with a strong interest in coding and problem solving. I am currently learning Data Structures and Algorithms and improving my skills in Java and C programming.
 
